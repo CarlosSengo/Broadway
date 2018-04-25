@@ -50,7 +50,7 @@ h4 {
   color: white;
 }
 /*======= Footer ======*/
-
+/* ==== still need to make sure to float elements on Footer to be inline check CSS trick*/
 
 .main-footer {
   float: left;
